@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+DO SOMETHING **TODAY** THAT FUTURE *SELF* WILL **THANK YOU**!
 Use the left arrow to go back!
